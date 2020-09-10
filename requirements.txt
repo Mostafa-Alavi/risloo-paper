@@ -1,0 +1,9 @@
+opencv-python
+numpy
+statistics
+json
+imutils
+argparse
+pyzbar
+MTM
+pathlib
